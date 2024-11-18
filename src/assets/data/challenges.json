@@ -1,0 +1,229 @@
+[
+    {
+      "id": 1,
+      "title": "AI Image Generator",
+      "description": "Build an image generation app using advanced AI techniques",
+      "difficulty": "Advanced",
+      "participants": 42,
+      "deadline": "2024-12-31",
+      "rewards": ["$5000 Grand Prize", "Top 3 Featured on Platform"]
+    },
+    {
+      "id": 2,
+      "title": "Climate Data Visualization",
+      "description": "Create an interactive dashboard showcasing global climate trends",
+      "difficulty": "Intermediate",
+      "participants": 27,
+      "deadline": "2024-11-30",
+      "rewards": ["$2500 First Prize", "Publication Opportunity"]
+    },
+    {
+      "id": 3,
+      "title": "Open Source Contribution",
+      "description": "Contribute meaningful improvements to selected open-source projects",
+      "difficulty": "Beginner",
+      "participants": 103,
+      "deadline": "2025-01-15",
+      "rewards": ["Mentorship", "Community Recognition"]
+    },
+      {
+        "id": 4,
+        "title": "Blockchain for Beginners",
+        "description": "Build your first blockchain application and explore decentralized networks",
+        "difficulty": "Beginner",
+        "participants": 50,
+        "deadline": "2024-12-15",
+        "rewards": ["$2000 First Prize", "Blockchain Certification"]
+      },
+      {
+        "id": 5,
+        "title": "Virtual Reality Experience",
+        "description": "Design a captivating VR experience using immersive technology",
+        "difficulty": "Advanced",
+        "participants": 30,
+        "deadline": "2025-02-01",
+        "rewards": ["$7000 Grand Prize", "VR Development Kit"]
+      },
+      {
+        "id": 6,
+        "title": "AI Chatbot Development",
+        "description": "Create an intelligent AI-powered chatbot for customer service",
+        "difficulty": "Intermediate",
+        "participants": 45,
+        "deadline": "2024-12-05",
+        "rewards": ["$3000 Prize", "Featured on Tech Blogs"]
+      },
+      {
+        "id": 7,
+        "title": "Smart Home Automation",
+        "description": "Build a smart home system with automation and IoT devices",
+        "difficulty": "Advanced",
+        "participants": 28,
+        "deadline": "2025-01-10",
+        "rewards": ["$4000 Prize", "Smart Devices Package"]
+      },
+      {
+        "id": 8,
+        "title": "Mobile Game Development",
+        "description": "Develop a fun and engaging mobile game from scratch",
+        "difficulty": "Intermediate",
+        "participants": 35,
+        "deadline": "2024-12-20",
+        "rewards": ["$2000 Cash Prize", "Game Publishing Opportunity"]
+      },
+      {
+        "id": 9,
+        "title": "Augmented Reality Application",
+        "description": "Design an AR app that blends digital and real-world experiences",
+        "difficulty": "Advanced",
+        "participants": 22,
+        "deadline": "2025-02-10",
+        "rewards": ["$5000 Prize", "AR Kit"]
+      },
+      {
+        "id": 10,
+        "title": "Sustainable Urban Design",
+        "description": "Design a sustainable urban space with eco-friendly features",
+        "difficulty": "Intermediate",
+        "participants": 18,
+        "deadline": "2024-11-30",
+        "rewards": ["$3000 Prize", "Sustainability Internship"]
+      },
+      {
+        "id": 11,
+        "title": "Data Science for Social Good",
+        "description": "Use data science to tackle social challenges and create solutions",
+        "difficulty": "Intermediate",
+        "participants": 50,
+        "deadline": "2025-01-25",
+        "rewards": ["$4000 Prize", "Social Impact Award"]
+      },
+      {
+        "id": 12,
+        "title": "Cloud Computing Solutions",
+        "description": "Build scalable and secure cloud solutions for modern applications",
+        "difficulty": "Advanced",
+        "participants": 40,
+        "deadline": "2024-12-10",
+        "rewards": ["$5000 Grand Prize", "Cloud Certification"]
+      },
+      {
+        "id": 13,
+        "title": "Cybersecurity Awareness Campaign",
+        "description": "Create an educational campaign to raise awareness about cybersecurity",
+        "difficulty": "Beginner",
+        "participants": 60,
+        "deadline": "2025-01-05",
+        "rewards": ["$1500 Prize", "Certificate of Achievement"]
+      },
+      {
+        "id": 14,
+        "title": "3D Printing Innovation",
+        "description": "Design and print innovative products using 3D technology",
+        "difficulty": "Intermediate",
+        "participants": 20,
+        "deadline": "2024-12-30",
+        "rewards": ["$2500 Prize", "3D Printer"]
+      },
+      {
+        "id": 15,
+        "title": "Digital Art Showcase",
+        "description": "Create and showcase your best digital artwork in an online gallery",
+        "difficulty": "Beginner",
+        "participants": 100,
+        "deadline": "2024-11-25",
+        "rewards": ["$1000 Prize", "Exhibition Opportunity"]
+      },
+      {
+        "id": 16,
+        "title": "Green Tech Innovation",
+        "description": "Design a sustainable and eco-friendly technology solution",
+        "difficulty": "Advanced",
+        "participants": 25,
+        "deadline": "2025-01-20",
+        "rewards": ["$6000 Prize", "Green Tech Internship"]
+      },
+      {
+        "id": 17,
+        "title": "E-commerce Website Development",
+        "description": "Create a user-friendly e-commerce website with secure payment integration",
+        "difficulty": "Intermediate",
+        "participants": 50,
+        "deadline": "2024-12-15",
+        "rewards": ["$2000 Prize", "E-commerce Course"]
+      },
+      {
+        "id": 18,
+        "title": "Digital Marketing Strategy",
+        "description": "Develop a comprehensive digital marketing strategy for a brand",
+        "difficulty": "Intermediate",
+        "participants": 60,
+        "deadline": "2024-12-10",
+        "rewards": ["$3000 Prize", "Marketing Internship"]
+      },
+      {
+        "id": 19,
+        "title": "IoT Smart Devices",
+        "description": "Create an innovative IoT device for daily life",
+        "difficulty": "Advanced",
+        "participants": 30,
+        "deadline": "2025-02-20",
+        "rewards": ["$5000 Prize", "IoT Device Kit"]
+      },
+      {
+        "id": 20,
+        "title": "Autonomous Vehicle Simulation",
+        "description": "Develop a simulation of an autonomous vehicle for testing algorithms",
+        "difficulty": "Advanced",
+        "participants": 40,
+        "deadline": "2025-03-01",
+        "rewards": ["$8000 Prize", "Autonomous Vehicle Internship"]
+      },
+      {
+        "id": 21,
+        "title": "Smart Healthcare Solutions",
+        "description": "Design innovative smart devices for the healthcare industry",
+        "difficulty": "Intermediate",
+        "participants": 38,
+        "deadline": "2025-01-15",
+        "rewards": ["$3500 Prize", "Healthcare Innovation Internship"]
+      },
+      {
+        "id": 22,
+        "title": "Game Development for Social Good",
+        "description": "Develop a game that raises awareness about social issues",
+        "difficulty": "Intermediate",
+        "participants": 45,
+        "deadline": "2025-02-05",
+        "rewards": ["$2500 Prize", "Game Development Scholarship"]
+      },
+      {
+        "id": 23,
+        "title": "AI-powered Health Diagnostics",
+        "description": "Create an AI-based health diagnostics tool for medical professionals",
+        "difficulty": "Advanced",
+        "participants": 32,
+        "deadline": "2025-03-10",
+        "rewards": ["$6000 Prize", "Healthcare AI Fellowship"]
+      },
+      {
+        "id": 24,
+        "title": "Machine Learning for Predictive Analytics",
+        "description": "Use machine learning to build predictive models for business insights",
+        "difficulty": "Advanced",
+        "participants": 28,
+        "deadline": "2025-02-28",
+        "rewards": ["$7000 Prize", "Machine Learning Internship"]
+      },
+      {
+        "id": 25,
+        "title": "Sustainable Fashion Design",
+        "description": "Design a collection of eco-friendly and sustainable fashion items",
+        "difficulty": "Intermediate",
+        "participants": 25,
+        "deadline": "2025-03-05",
+        "rewards": ["$2500 Prize", "Sustainable Fashion Internship"]
+      }
+    ]
+    
+  

@@ -1,0 +1,33 @@
+[
+    {
+      "role": "Product Designer",
+      "description": "We are looking for a mid-level Product Designer to join the team.",
+      "place": "Remote",
+      "type": "Full-time"
+    },
+    {
+      "role": "Software Engineer",
+      "description": "We are looking for a passionate Software Engineer to build scalable applications.",
+      "place": "In-place",
+      "type": "Internship"
+    },
+    {
+      "role": "Marketing Specialist",
+      "description": "We are looking for a creative Marketing Specialist to drive brand growth.",
+      "place": "Remote",
+      "type": "Part-time"
+    },
+    {
+      "role": "Data Analyst",
+      "description": "We are looking for a detail-oriented Data Analyst to join our analytics team.",
+      "place": "In-place",
+      "type": "Full-time"
+    },
+    {
+      "role": "Content Writer",
+      "description": "We are looking for a talented Content Writer to craft engaging articles.",
+      "place": "Remote",
+      "type": "Part-time"
+    }
+  ]
+  
