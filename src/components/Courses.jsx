@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import tw, { styled } from "twin.macro";
-import data from "../assets/data/data.json";
+import data from "./../assets/data/data.json";
 import { createClient } from "pexels";
 import Card from "./Card";
 import { GrFormPrevious } from "react-icons/gr";

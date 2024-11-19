@@ -1,6 +1,6 @@
 import React from "react";
-import Container from "../components/Container";
-import Header from "../components/Header";
+import Container from "./../components/Container";
+import Header from "./../components/Header";
 import { BiError } from "react-icons/bi";
 import { Link } from "react-router-dom";
 import { IoArrowBackOutline } from "react-icons/io5";

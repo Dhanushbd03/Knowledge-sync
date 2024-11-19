@@ -1,6 +1,6 @@
 import React from "react";
 import JobCard from "./JobCard";
-import data from "../assets/data/jobs.json"
+import data from "./../assets/data/jobs.json"
 const Jobs = () => {
   return (
     <div className="flex flex-col">

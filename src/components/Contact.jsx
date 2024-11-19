@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import tw, { styled } from "twin.macro";
-import logo from "../assets/logo.png";
+import logo from "./../assets/logo.png";
 import InputC from "./InputC";
 import TextArea from "./TextArea";
-import contact from "../assets/contact.jpg";
+import contact from "./../assets/contact.jpg";
 
 const Title = styled.h1`
   ${tw`text-3xl z-10 font-bold text-transparent bg-clip-text relative bg-gradient-to-r from-white via-DiSerria to-DiSerria py-6 lg:text-4xl md:text-nowrap w-80 md:w-full`}

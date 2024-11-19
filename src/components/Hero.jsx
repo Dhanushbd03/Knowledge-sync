@@ -1,10 +1,10 @@
 import React from "react";
 import tw, { styled } from "twin.macro";
-import img1 from "../assets/hero/1.jpg";
-import img2 from "../assets/hero/2.jpg";
-import img3 from "../assets/hero/3.jpg";
-import img4 from "../assets/hero/4.jpg";
-import img5 from "../assets/hero/5.jpg";
+import img1 from "./../assets/hero/1.jpg";
+import img2 from "./../assets/hero/2.jpg";
+import img3 from "./../assets/hero/3.jpg";
+import img4 from "./../assets/hero/4.jpg";
+import img5 from "./../assets/hero/5.jpg";
 import { FaPlay } from "react-icons/fa6";
 import InputH from './InputH';
 import ButtonH from './ButtonH';

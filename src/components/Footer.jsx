@@ -1,7 +1,5 @@
 import React from "react";
 import Logo from "./Logo";
-import InputC from "./InputC";
-import ButtonH from "./ButtonH";
 import tw, { styled } from "twin.macro";
 import { Link } from "react-router-dom";
 import { HashLink } from "react-router-hash-link";
@@ -31,19 +29,19 @@ const Footer = () => {
           </button>
         </div>
         <div className="flex md:w-full md:justify-center md:gap-20 md:py-5">
-          <HashLink to="/#about" smooth >
+          <HashLink to="/#about" smooth="true" >
             <GoTo>About</GoTo>
           </HashLink>
-          <HashLink to="/#courses" smooth >
+          <HashLink to="/#courses" smooth="true" >
             <GoTo>Courses</GoTo>
           </HashLink>
-          <Link to="/career" smooth >
+          <Link to="/career" smooth="true" >
             <GoTo>Career</GoTo>
           </Link>
-          <Link to="/projects" smooth >
+          <Link to="/projects" smooth="true" >
             <GoTo>Projects</GoTo>
           </Link>
-          <HashLink to="/#contact" smooth >
+          <HashLink to="/#contact" smooth="true" >
             <GoTo>Contact Us</GoTo>
           </HashLink>
         </div>

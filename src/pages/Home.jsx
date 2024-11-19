@@ -4,8 +4,8 @@ import Container from "../components/Container";
 import Hero from "../components/Hero";
 import About from "../components/About";
 import Courses from "../components/Courses";
-import Contact from "../components/Contact";
-import Footer from '../components/Footer';
+import Contact from "./../components/Contact";
+import Footer from './../components/Footer';
 import { Link } from "react-router-dom";
 
 const Home = () => {

@@ -1,8 +1,8 @@
 import React from "react";
-import img from "../assets/about.jpg";
-import mission from "../assets/mission.png";
-import vision from "../assets/vision.png";
-import success from "../assets/success.png";
+import img from "./../assets/about.jpg";
+import mission from "./../assets/mission.png";
+import vision from "./../assets/vision.png";
+import success from "./../assets/success.png";
 
 const About = () => {
   return (

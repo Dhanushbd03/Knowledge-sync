@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import tw from "twin.macro";
 import { MdMenuBook } from "react-icons/md";
 import Logo from "./Logo";
-import selfie from "../assets/selfiw.jpg";
+import selfie from "./../assets/selfiw.jpg";
 import { Link } from "react-router-dom";
 import { HashLink } from "react-router-hash-link";
 

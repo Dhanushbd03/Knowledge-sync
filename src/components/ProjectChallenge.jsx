@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import tw, { styled } from "twin.macro";
 import { Trophy, Clock, Users } from "lucide-react";
-import data from "../assets/data/challenges.json";
+import data from "./../assets/data/challenges.json";
 
 const FilterButton = styled.button`
   ${tw`px-4 py-2 rounded-lg transition-colors duration-200 text-white border-2 hover:border-Lynch`}

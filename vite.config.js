@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react';
+import react from '@vitejs/plugin-react'; 
 
 export default defineConfig({
   optimizeDeps: {
@@ -12,6 +12,7 @@ export default defineConfig({
       'this-is-undefined-in-esm': 'silent',
     },
   },
+  base:"./",
   plugins: [
     react({
       babel: {
