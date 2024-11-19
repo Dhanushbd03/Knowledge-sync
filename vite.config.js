@@ -1,30 +1,29 @@
-import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react'; 
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   optimizeDeps: {
+    include: ["isomorphic-fetch"],
     esbuildOptions: {
-      target: 'es2020',
+      target: "es2020",
     },
   },
   esbuild: {
     logOverride: {
-      'this-is-undefined-in-esm': 'silent',
+      "this-is-undefined-in-esm": "silent",
     },
   },
-  base:"./",
+  base: "./",
   plugins: [
     react({
       babel: {
-        plugins: [
-          'babel-plugin-macros',
-          'babel-plugin-styled-components',
-        ],
+        plugins: ["babel-plugin-macros", "babel-plugin-styled-components"],
       },
     }),
   ],
   build: {
-    target: 'es2020',
-    outDir: 'dist',
+    target: "es2020",
+    outDir: "dist",
+    commonjsOptions: { transformMixedEsModules: true }
   },
 });
